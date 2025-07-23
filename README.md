@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**amieranis/amieranis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Beautiful code is short and concise so if you were to give that code to another programmer, they would say, oh, that's well written code. It's much like if you're writing a poem.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+resource "cloud_integrator" {
+  source        = "github.com/amieranis"
+  name          = "Amier Ani"
+  role          = "Cloud Integrator"
+  skills        = ["Terraform", "CI/CD", "Cloud Integration", "Cloud Architecture"]
+  certifications = ["AWS Certified Solutions Architect – Professional"]
+  outputs = {
+    productivity = "High"
+    code_quality = "Elegant"
+    automation   = "Always"
+  }
+}
 -->
