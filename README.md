@@ -2,7 +2,7 @@
 
 resource "cloud_integrator" {
   source        = "github.com/amieranis"
-  name          = "Amier Ani"
+  name          = "Amier Anis"
   role          = "Cloud Integrator"
   skills        = ["Terraform", "CI/CD", "Cloud Integration", "Cloud Architecture"]
   certifications = ["AWS Certified Solutions Architect – Professional"]
